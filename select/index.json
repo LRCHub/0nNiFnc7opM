@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "気持ちいいよね 一等賞！",
+  "base_artist": "姫川友紀 (CV: 杜野まこ)",
+  "createdAt": "2026-03-01T10:19:46.989801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "気持ちいいよね 一等賞!",
+      "artist": "姫川友紀(CV:杜野まこ)",
+      "has_synced": false,
+      "path": "select/01_気持ちいいよね_一等賞!_姫川友紀(CV_杜野まこ).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "気持ちいいよね 一等賞! (オリジナル・カラオケ)",
+      "artist": "姫川友紀(CV:杜野まこ)",
+      "has_synced": false,
+      "path": "select/02_気持ちいいよね_一等賞!_(オリジナル・カラオケ)_姫川友紀(CV_杜野まこ).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "気持ちいいよね 一等賞！ (オリジナル・カラオケ)",
+      "artist": "姫川友紀(CV.杜野まこ)",
+      "has_synced": false,
+      "path": "select/03_気持ちいいよね_一等賞!_(オリジナル・カラオケ)_姫川友紀(CV.杜野まこ).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "気持ちいいよね 一等賞！",
+      "artist": "姫川友紀(CV.杜野まこ)",
+      "has_synced": false,
+      "path": "select/04_気持ちいいよね_一等賞!_姫川友紀(CV.杜野まこ).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "気持ちいいよね 一等賞！",
+      "artist": "杜野まこ",
+      "has_synced": false,
+      "path": "select/05_気持ちいいよね_一等賞!_杜野まこ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "気持ちいいよね 一等賞! (オリジナル・カラオケ)",
+      "artist": "姫川友紀",
+      "has_synced": false,
+      "path": "select/06_気持ちいいよね_一等賞!_(オリジナル・カラオケ)_姫川友紀.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "気持ちいいよね 一等賞!",
+      "artist": "姫川友紀",
+      "has_synced": false,
+      "path": "select/07_気持ちいいよね_一等賞!_姫川友紀.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "気持ちいいよね 一等賞！(オリジナル・カラオケ)",
+      "artist": "姫川友紀",
+      "has_synced": false,
+      "path": "select/08_気持ちいいよね_一等賞!(オリジナル・カラオケ)_姫川友紀.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "気持ちいいよね 一等賞!",
+      "artist": "姫川友紀(CV:杜野まこ)",
+      "has_synced": false,
+      "path": "select/pl_01_気持ちいいよね_一等賞!_姫川友紀(CV_杜野まこ).txt"
+    }
+  ]
+}
